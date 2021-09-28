@@ -1,0 +1,75 @@
+/*			TrebuchetMS 			*/
+
+/* font-family: "TrebuchetMS-Regular"; */
+@font-face {
+font-family: 'TrebuchetMS';
+src: url('../fonts/TrebuchetMS/TrebuchetMS-Regular/TrebuchetMS.eot');
+src: url('../fonts/TrebuchetMS/TrebuchetMS-Regular/TrebuchetMS.eot?#iefix') format('embedded-opentype'),
+url('../fonts/TrebuchetMS/TrebuchetMS-Regular/TrebuchetMS.woff') format('woff'),
+url('../fonts/TrebuchetMS/TrebuchetMS-Regular/TrebuchetMS.ttf') format('truetype');
+font-weight: 400;
+font-style: normal;
+}
+
+
+/*			Roboto 			*/
+
+/* font-family: "Roboto-Bold"; */
+@font-face {
+font-family: 'Roboto';
+src: url('../fonts/Roboto/Roboto-Bold/Roboto-Bold.eot');
+src: url('../fonts/Roboto/Roboto-Bold/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Roboto/Roboto-Bold/Roboto-Bold.woff') format('woff'),
+url('../fonts/Roboto/Roboto-Bold/Roboto-Bold.ttf') format('truetype');
+font-weight: 700;
+font-style: normal;
+}
+
+/*			PTSerif 			*/
+
+/* font-family: "PTSerif-Italic"; */
+@font-face {
+font-family: 'PTSerif';
+src: url('../fonts/PTSerif/PTSerif-Italic/PTSerif-Italic.eot');
+src: url('../fonts/PTSerif/PTSerif-Italic/PTSerif-Italic.eot?#iefix') format('embedded-opentype'),
+url('../fonts/PTSerif/PTSerif-Italic/PTSerif-Italic.woff') format('woff'),
+url('../fonts/PTSerif/PTSerif-Italic/PTSerif-Italic.ttf') format('truetype');
+font-weight: normal;
+font-style: italic;
+}
+
+
+/*			HelveticaNeueCyr 			*/
+
+/* font-family: "HelveticaNeueCyr-Bold"; */
+@font-face {
+font-family: 'HelveticaNeueCyr';
+src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.eot');
+src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.woff') format('woff'),
+url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.ttf') format('truetype');
+font-weight: 700;
+font-style: normal;
+}
+
+/* font-family: "HelveticaNeueCyr-Light"; */
+@font-face {
+font-family: 'HelveticaNeueCyr';
+src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.eot');
+src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.eot?#iefix') format('embedded-opentype'),
+url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.woff') format('woff'),
+url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.ttf') format('truetype');
+font-weight: 300;
+font-style: normal;
+}
+
+/* font-family: "HelveticaNeueCyr-Roman"; */
+@font-face {
+font-family: 'HelveticaNeueCyr';
+src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.eot');
+src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.eot?#iefix') format('embedded-opentype'),
+url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.woff') format('woff'),
+url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.ttf') format('truetype');
+font-weight: 400;
+font-style: normal;
+}
